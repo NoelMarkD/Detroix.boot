@@ -1,0 +1,164 @@
+.top-header {
+    background: #000;
+}
+
+ul {
+   list-style: none;
+}
+
+.service-list-item a {
+    color: #fff;
+}
+
+.opportunties-list a {
+    color: #fff;
+}
+
+.top-nav-list {
+    display: flex;
+    margin-top: 20px;
+}
+
+.btn {
+    background: #000;
+    color: #fff;
+}
+
+.btn:hover {
+    background: orange;
+}
+
+.logo {
+    margin-top: 10px;
+}
+
+.button {
+    background: #33597e;
+    height: 30px;
+    border-radius: 10px;
+    margin-left:50px;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.top-nav-item {
+    padding-left: 10px;
+}
+
+.main-nav-list {
+    
+    margin-top: 20px;
+}
+
+.main-nav-item {
+    padding-left: 10px;
+}
+
+.carousel {
+    width: 1000px;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.hero {
+    margin-right: 100px;
+    width: 1000px;
+    height: 400px;
+}
+
+.content-section {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 20px;
+    background: #0E1720;
+    background-image: radial-gradient(at top right, #33597e, #0e1620);
+    color: #fff;
+}
+
+.service-list-item {
+    padding-top: 10px;
+}
+
+.news-list-item {
+    display: flex;
+}
+
+.news-list-item a {
+    color: #fff;
+}
+
+.news-list {
+    color: #fff;
+    list-style: none;
+}
+
+.date-text, .date-text2, .date-text3 {
+    padding-left: 15px;
+}
+
+.date-div {
+    border-radius: 20px;
+    height: 85px;
+    width: 85px;
+    background-color: #be8842;
+    text-align: center;
+    padding-top: 1.5px;
+}
+
+.date-div2 {
+    border-radius: 20px;
+    height: 85px;
+    width: 85px;
+    background-color: #bc6142;
+    text-align: center;
+    padding-top: 1.5px;
+}
+
+.date-div3 {
+    border-radius: 20px;
+    height: 85px;
+    width: 85px;
+    background-color: #bd425e;
+    text-align: center;
+    padding-top: 1.5px;
+}
+
+.date-div {
+    font-size:25px;
+    color: #fff;
+}
+
+.date-div2 {
+    font-size:25px;
+    color: #fff;
+}
+
+.date-div3 {
+    font-size:25px;
+    color: #fff;
+}
+
+.month {
+    font-size: 20px;
+    margin-top: -27px;
+ }
+
+ .list-text {
+    color: #596573;
+} 
+
+.colophon {
+    background: #000;
+    color: #fff;
+    
+}
+
+
+
+
+
+
+
